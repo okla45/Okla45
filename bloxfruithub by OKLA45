@@ -1,0 +1,6 @@
+Config = {
+    namescript = "bloxfruithub",--Tên Script
+    logoscript = "77399721723599",--ID Logo Script
+    tacgia = "OKLA45"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
